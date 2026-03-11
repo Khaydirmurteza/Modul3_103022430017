@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Modul3_103022430017\Modul3_103022430017\bin\Debug\Modul3_103022430017.exe.config
+C:\Users\Lenovo\source\repos\Modul3_103022430017\Modul3_103022430017\bin\Debug\Modul3_103022430017.exe
+C:\Users\Lenovo\source\repos\Modul3_103022430017\Modul3_103022430017\bin\Debug\Modul3_103022430017.pdb
+C:\Users\Lenovo\source\repos\Modul3_103022430017\Modul3_103022430017\obj\Debug\Modul3_103022430017.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Modul3_103022430017\Modul3_103022430017\obj\Debug\Modul3_103022430017.Form1.resources
+C:\Users\Lenovo\source\repos\Modul3_103022430017\Modul3_103022430017\obj\Debug\Modul3_103022430017.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Modul3_103022430017\Modul3_103022430017\obj\Debug\Modul3_103022430017.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Modul3_103022430017\Modul3_103022430017\obj\Debug\Modul3_103022430017.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Modul3_103022430017\Modul3_103022430017\obj\Debug\Modul3_103022430017.exe
+C:\Users\Lenovo\source\repos\Modul3_103022430017\Modul3_103022430017\obj\Debug\Modul3_103022430017.pdb
